@@ -1,0 +1,3 @@
+emoji
+requests
+python-telegram-bot
